@@ -20,8 +20,6 @@ This repository contains a series of Bash scripts to help on the Fedora operatin
 
 `./script-name.sh`
 
-Each script is responsible for installing a specific set of applications or packages. Be sure to read the instructions inside each file before running it.
-
 ## Contributing
 
 If you have suggestions for new scripts or improvements to existing ones, feel free to open an issue or pull request in this repository.
