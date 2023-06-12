@@ -6,7 +6,7 @@ This repository contains a series of Bash scripts to help on the Fedora operatin
 
 1. Clone this repository to your local machine:
 
-`git clone https://github.com/your-username/fedora-install-scripts-helper.git`
+`git clone https://github.com/devdiogenes/fedora-install-scripts-helper.git`
 
 2. Navigate to the repository directory:
 
